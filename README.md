@@ -1,4 +1,1 @@
-<<<<<<< HEAD
 # Learning GIT
-=======
-

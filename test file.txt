@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 testing by vishwanth
-=======
-Testing by hemanth
->>>>>>> hemanth
